@@ -49,5 +49,4 @@
 
 Для работы с проектом потребуется Python 3.x и следующие библиотеки:
 
-`bash
-pip install torch torchvision numpy matplotlib clip-by-openai PIL`
+`pip install torch torchvision numpy matplotlib clip-by-openai PIL`
